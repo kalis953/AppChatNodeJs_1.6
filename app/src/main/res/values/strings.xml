@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Chat-Ptit</string>
+    <string name="hint_name">UserName</string>
+    <string name="hint_email">Email</string>
+    <string name="password">Password</string>
+    <string name="btn_sign_up">sign_up</string>
+    <string name="register">Register Account</string>
+    <string name="emailRegister">Email :</string>
+    <string name="phoneNumberRegister">Phone number:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_login_err_msg">Tên Tài Khoảng Không Tồn Tại \n Hoặc Mật Khẩu Không Đúng</string>
+    <string name="txt_login_success_msg">Đăng Nhập Thành Công</string>
+
+    <string name="txt_err1_create_room">Tạo phòng thất bại</string>
+    <string name="txt_err2_create_room">Bạn chỉ đươc tạo tối đa một phòng</string>
+    <string name="txt_success_create_room">Tạo phòng thành công</string>
+    <string name="txtConnectFail">NO CONNECT TO INTERNET</string>
+    <string name="information">Thông tin cá nhân</string>
+    <string name="userlogin">USERLOGIN</string>
+    <string name="roomSelected">RoomSelected</string>
+
+    <string name="txt_user_share_preference">USER_INFOMATION</string>
+    <string name="txt_is_saved_infomation">IsSavedInfomation</string>
+    <string name="txt_file_share_preference">INFORMATION</string>
+    <string name="txt_current_userLogin">USER_CURRENT</string>
+</resources>
